@@ -1,6 +1,6 @@
 # Maratona_Discover
-Na Maratona Discover tive a oportunidade de fortalecer minhas bases e aprender desenvolvimento web desde os fundamentos, para alcançar meus maiores objetivos em programação e o melhor foi aprender na prática!
 
+Na Maratona Discover tive a oportunidade de fortalecer minhas bases e aprender desenvolvimento web desde os fundamentos, para alcançar meus maiores objetivos em programação e o melhor foi aprender na prática!
 
 ### Qual a proposta deste projeto?
 	[] Organização e estudo
